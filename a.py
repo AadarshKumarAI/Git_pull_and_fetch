@@ -1,4 +1,3 @@
-print("Hello World")
-print("I want to become billinior")
-
-
+print("Hello
+print("I wa;laksjr")
+print("I want to earn my first crore rupees")
